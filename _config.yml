@@ -1,4 +1,4 @@
-name: Kevin Chalmers
 title: Kevin Chalmers
 theme: jekyll-theme-minimal
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
